@@ -813,7 +813,7 @@ input[type="search"]::-webkit-search-results-decoration {
   height: -webkit-fit-content;
   height: -moz-fit-content;
   height: fit-content;
-  background-image: url('/img/background.jpg');
+  background-image: url('../img/background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   -webkit-animation: slider 16s infinite;
@@ -822,18 +822,18 @@ input[type="search"]::-webkit-search-results-decoration {
 
 @-webkit-keyframes slider {
   25%{
-      background-image: url('/img/background2.jpg');
+      background-image: url('../img/background2.jpg');
   }
   50%{
-      background-image: url('/img/background3.jpg');
+      background-image: url('../img/background3.jpg');
   }
 }
 @keyframes slider {
   25%{
-      background-image: url('/img/background2.jpg');
+      background-image: url('../img/background2.jpg');
   }
   50%{
-      background-image: url('/img/background3.jpg');
+      background-image: url('../img/background3.jpg');
   }
 }
 
@@ -899,7 +899,7 @@ input[type="search"]::-webkit-search-results-decoration {
   padding-top: 86px;
   padding-bottom: 81px;
   color: white;
-  background-image: url('/img/background-gallery.jpg');
+  background-image: url('../img/background-gallery.jpg');
 }
 
 .section-gallery__container {
@@ -2070,23 +2070,23 @@ input[type="search"]::-webkit-search-results-decoration {
 /* Events cards */
 
 .event-image-1 {
-  background-image: url('/img/event-1.jpg');
+  background-image: url('../img/event-1.jpg');
 }
 
 .event-image-2 {
-  background-image: url('/img/event-2.jpg');
+  background-image: url('../img/event-2.jpg');
 }
 
 .event-image-3{
-  background-image: url('/img/event-3.jpg');
+  background-image: url('../img/event-3.jpg');
 }
 
 .event-image-4 {
-  background-image: url('/img/event-4.jpg');
+  background-image: url('../img/event-4.jpg');
 }
 
 .event-image-5 {
-  background-image: url('/img/event-5.jpg');
+  background-image: url('../img/event-5.jpg');
 }
 
 /* PROJECTS */
@@ -2829,25 +2829,25 @@ input[type="search"]::-webkit-search-results-decoration {
   }
 
   .section-hero__slider {
-    background-image: url('/img/background-1024.jpg');
+    background-image: url('../img/background-1024.jpg');
     -webkit-animation: slider 16s infinite;
             animation: slider 16s infinite;
   }
 
   @-webkit-keyframes slider {
     25%{
-        background-image: url('/img/background2-1024.jpg');
+        background-image: url('../img/background2-1024.jpg');
     }
     50%{
-        background-image: url('/img/background3-1024.jpg');
+        background-image: url('../img/background3-1024.jpg');
     }
   }
 @keyframes slider {
     25%{
-        background-image: url('/img/background2-1024.jpg');
+        background-image: url('../img/background2-1024.jpg');
     }
     50%{
-        background-image: url('/img/background3-1024.jpg');
+        background-image: url('../img/background3-1024.jpg');
     }
   }
 
@@ -2928,23 +2928,23 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .event-image-1 {
-  background-image: url('/img/event-1-1024.jpg');
+  background-image: url('../img/event-1-1024.jpg');
 }
 
 .event-image-2 {
-  background-image: url('/img/event-2-1024.jpg');
+  background-image: url('../img/event-2-1024.jpg');
 }
 
 .event-image-3 {
-  background-image: url('/img/event-3-1024.jpg');
+  background-image: url('../img/event-3-1024.jpg');
 }
 
 .event-image-4 {
-  background-image: url('/img/event-4-1024.jpg');
+  background-image: url('../img/event-4-1024.jpg');
 }
 
 .event-image-5 {
-  background-image: url('/img/event-5-1024.jpg');
+  background-image: url('../img/event-5-1024.jpg');
 }
 
 .event__info {
@@ -3049,23 +3049,23 @@ input[type="search"]::-webkit-search-results-decoration {
   }
 
   .section-hero__slider {
-    background-image: url('/img/background-768.jpg');
+    background-image: url('../img/background-768.jpg');
   }
 
   @-webkit-keyframes slider {
     25%{
-        background-image: url('/img/background2-768.jpg');
+        background-image: url('../img/background2-768.jpg');
     }
     50%{
-        background-image: url('/img/background3-768.jpg');
+        background-image: url('../img/background3-768.jpg');
     }
   }
 @keyframes slider {
     25%{
-        background-image: url('/img/background2-768.jpg');
+        background-image: url('../img/background2-768.jpg');
     }
     50%{
-        background-image: url('/img/background3-768.jpg');
+        background-image: url('../img/background3-768.jpg');
     }
   }
   
@@ -3145,23 +3145,23 @@ input[type="search"]::-webkit-search-results-decoration {
   }
 
   .event-image-1 {
-    background-image: url('/img/event-1-768.jpg');
+    background-image: url('../img/event-1-768.jpg');
   }
 
   .event-image-2 {
-    background-image: url('/img/event-2-768.jpg');
+    background-image: url('../img/event-2-768.jpg');
   }
 
   .event-image-3 {
-    background-image: url('/img/event-3-768.jpg');
+    background-image: url('../img/event-3-768.jpg');
   }
 
   .event-image-4 {
-    background-image: url('/img/event-4-768.jpg');
+    background-image: url('../img/event-4-768.jpg');
   }
 
   .event-image-5 {
-    background-image: url('/img/event-5-768.jpg');
+    background-image: url('../img/event-5-768.jpg');
   }
 
   .event__time,
@@ -3344,23 +3344,23 @@ input[type="search"]::-webkit-search-results-decoration {
   }
 
   .section-hero__slider {
-    background-image: url('/img/background-320.jpg');
+    background-image: url('../img/background-320.jpg');
   }
 
   @-webkit-keyframes slider {
     25%{
-      background-image: url('/img/background2-320.jpg');
+      background-image: url('../img/background2-320.jpg');
     }
     50%{
-      background-image: url('/img/background3-320.jpg');
+      background-image: url('../img/background3-320.jpg');
     }
   }
   @keyframes slider {
       25%{
-        background-image: url('/img/background2-320.jpg');
+        background-image: url('../img/background2-320.jpg');
       }
       50%{
-        background-image: url('/img/background3-320.jpg');
+        background-image: url('../img/background3-320.jpg');
       }
     }
 
@@ -3588,23 +3588,23 @@ input[type="search"]::-webkit-search-results-decoration {
   }
 
   .event-image-1 {
-    background-image: url('/img/event-1-320.jpg');
+    background-image: url('../img/event-1-320.jpg');
   }
 
   .event-image-2 {
-    background-image: url('/img/event-2-320.jpg');
+    background-image: url('../img/event-2-320.jpg');
   }
 
   .event-image-3 {
-    background-image: url('/img/event-3-320.jpg');
+    background-image: url('../img/event-3-320.jpg');
   }
 
   .event-image-4 {
-    background-image: url('/img/event-4-320.jpg');
+    background-image: url('../img/event-4-320.jpg');
   }
 
   .event-image-5 {
-    background-image: url('/img/event-5-320.jpg');
+    background-image: url('../img/event-5-320.jpg');
   }
 
   .swiper-pagination--events.swiper-pagination-bullets.swiper-pagination-horizontal {
